@@ -16,6 +16,7 @@ Transmiterea și recepționarea datelor:
 
 Proiectul permite trimiterea și primirea de caractere prin portul serial USART.
 Se folosește un microcontroler pentru a trimite și a recepționa date între două dispozitive conectate.
+
 Controlul LED-ului:
 
 Comenzile primite prin USART sunt folosite pentru a controla un LED conectat la un pin al microcontrolerului.
@@ -29,7 +30,7 @@ Tehnologii utilizate:
 
 C/C++ pentru programarea microcontrolerului.
 USART pentru comunicarea serială.
-Microcontrolere (ex. ATmega, STM32).
+Microcontrolere (ATmega).
 LED control prin portul digital al microcontrolerului.
 Instrucțiuni de utilizare
 
